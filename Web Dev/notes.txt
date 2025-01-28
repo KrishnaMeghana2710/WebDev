@@ -1,3 +1,7 @@
 Local host Ip: http://127.0.0.1:3000
 
-lorem23 - get 23 different dummy words for a para 
+VS code cheat codes: 
+->alt+cursor - multiple cursors
+->alt+shift+ down arrow - copies the same content in the next line
+enter lorem23 in <p> - get 23 different dummy words for a para 
+you can add any number and you will get that number of words
