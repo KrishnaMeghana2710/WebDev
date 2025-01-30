@@ -1,0 +1,19 @@
+td{
+    border: 2px solid black;
+}
+tbody{
+    background-color: pink;
+}
+thead{
+    background-color: green;
+}
+caption{
+    background-color: yellow;
+
+}
+tfoot{
+    background-color:aqua;
+}
+table{
+    text-align: center;
+}

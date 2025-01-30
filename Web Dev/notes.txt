@@ -5,3 +5,5 @@ VS code cheat codes:
 ->alt+shift+ down arrow - copies the same content in the next line
 enter lorem23 in <p> - get 23 different dummy words for a para 
 you can add any number and you will get that number of words
+
+shift+window+s -> screenshot

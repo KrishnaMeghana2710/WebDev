@@ -1,0 +1,8 @@
+Tables:
+>colspan -> 
+if the colspan is 2 i.e, it qill take 2 space of 2 columns
+We can map it to the merge and center concept of excel
+>rowspan->
+same like colspan but in rows format
+
+List:
